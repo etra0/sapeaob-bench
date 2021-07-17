@@ -1,0 +1,9 @@
+[submodule "vendor/ModUtils"]
+	path = vendor/ModUtils
+	url = https://github.com/CookiePLMonster/ModUtils.git
+[submodule "vendor/benchmark"]
+	path = vendor/benchmark
+	url = https://github.com/google/benchmark
+[submodule "vendor/sapeaob"]
+	path = vendor/sapeaob
+	url = https://github.com/etra0/sapeaob.git
