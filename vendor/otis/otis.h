@@ -1,3 +1,13 @@
+/*
+ * All the credits of this header goes to Frans Bouma (Otis_inf).
+ * He provided me this header in order to have an initial library
+ * to compare with regarding the performance of sapeaob.
+ * Thanks a lot Otis!
+ 
+ * It was adapted a bit by me to make it windows independant by adding some typedefs and 
+ * writing the ScanPattern struct by the provided functions.
+*/
+
 #include <cstdint>
 #include <string>
 
